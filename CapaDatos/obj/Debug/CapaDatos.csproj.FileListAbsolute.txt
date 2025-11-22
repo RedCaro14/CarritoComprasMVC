@@ -1,0 +1,9 @@
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\SURFACE BOOK 2\Desktop\MVC\CursoMVC\CapaDatos\obj\Debug\CapaDatos.pdb

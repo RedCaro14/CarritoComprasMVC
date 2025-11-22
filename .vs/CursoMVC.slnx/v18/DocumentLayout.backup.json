@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\capapresentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\home\\usuarios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\surface book 2\\desktop\\mvc\\cursomvc\\capapresentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\surface book 2\\desktop\\mvc\\cursomvc\\capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{15AF6813-C372-41C9-8541-43831D1A16F7}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:19:06.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\Web.config",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Web.config",
+              "ToolTip": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\Web.config",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-21T17:34:36.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:02:52.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cshtml",
+              "DocumentMoniker": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ToolTip": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Home\\Usuarios.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T21:04:32.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SURFACE BOOK 2\\Desktop\\MVC\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-19T20:53:20.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
